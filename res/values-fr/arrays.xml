@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_types_array">
+        <item>Mes Media</item>
+        <item>Media Aimés</item>
+        <item>Mes Media et Media Aimés</item>
+    </string-array>
+    <string-array name="enable_disable_aray">
+        <item>Désactiver</item>
+        <item>Activer</item>
+    </string-array>
+    <string-array name="pref_filter_entries">
+        <item>Désactiver</item>
+        <item>Photos Seulement</item>
+        <item>Vidéos seulement</item>
+    </string-array>
+    <string-array name="pref_folder_style_entries">
+        <item>Par catégorie</item>
+        <item>"Par Nom d'utilisateur"</item>
+    </string-array>
+    <string-array name="pref_grid_size_entries">
+        <item>Minuscule</item>
+        <item>Petit</item>
+        <item>Normal</item>
+        <item>Grand</item>
+        <item>Énorme</item>
+    </string-array>
+</resources>

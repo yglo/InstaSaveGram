@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Другие параметры</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
+    <string name="common_android_wear_notification_needs_update_text">Чтобы продолжить работу с приложением \"%1$s\", обновите Android Wear</string>
+    <string name="common_android_wear_update_text">Чтобы запустить приложение \"%1$s\", обновите Android Wear.</string>
+    <string name="common_android_wear_update_title">Обновить Android Wear</string>
+    <string name="common_google_play_services_api_unavailable_text">Сервисы Google Play, необходимые для работы с приложением \"%1$s\", недоступны. Свяжитесь с его разработчиком.</string>
+    <string name="common_google_play_services_enable_button">Включить</string>
+    <string name="common_google_play_services_enable_text">Чтобы запустить приложение \"%1$s\", включите сервисы Google Play.</string>
+    <string name="common_google_play_services_enable_title">Включите Сервисы Google Play</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Источник запроса: %1$s</string>
+    <string name="common_google_play_services_install_button">Установить</string>
+    <string name="common_google_play_services_install_text_phone">Для работы с приложением \"%1$s\" требуются сервисы Google Play, не установленные на вашем телефоне.</string>
+    <string name="common_google_play_services_install_text_tablet">Для работы с приложением \"%1$s\" требуются сервисы Google Play, не установленные на вашем планшете.</string>
+    <string name="common_google_play_services_install_title">Установите Сервисы Google Play</string>
+    <string name="common_google_play_services_invalid_account_text">Этого аккаунта нет на устройстве. Выберите другой.</string>
+    <string name="common_google_play_services_invalid_account_title">Недействительный аккаунт</string>
+    <string name="common_google_play_services_needs_enabling_title">Для работы приложения требуется включить сервисы Google Play</string>
+    <string name="common_google_play_services_network_error_text">Для работы с Google Play требуется подключение к сети.</string>
+    <string name="common_google_play_services_network_error_title">Ошибка сети</string>
+    <string name="common_google_play_services_notification_needs_update_title">Для работы приложения требуется обновить сервисы Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
+    <string name="common_google_play_services_sign_in_failed_text">При входе в указанный аккаунт произошла ошибка. Выберите другой аккаунт.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Ошибка входа</string>
+    <string name="common_google_play_services_unknown_issue">Неизвестная ошибка с Сервисами Google Play.</string>
+    <string name="common_google_play_services_unsupported_text">Сервисы Google Play, необходимые для работы с приложением \"%1$s\", не поддерживаются на вашем устройстве. Обратитесь к его производителю.</string>
+    <string name="common_google_play_services_unsupported_title">Сервисы Google Play</string>
+    <string name="common_google_play_services_update_button">Обновить</string>
+    <string name="common_google_play_services_update_text">Чтобы запустить приложение \"%1$s\", обновите сервисы Google Play.</string>
+    <string name="common_google_play_services_update_title">Обновите Сервисы Google Play</string>
+    <string name="common_google_play_services_updating_text">Сервисы Google Play, необходимые для работы с приложением \"%1$s\", в настоящий момент обновляются.</string>
+    <string name="common_google_play_services_updating_title">Обновление сервисов Google Play…</string>
+    <string name="common_open_on_phone">Открыть на телефоне</string>
+    <string name="common_signin_button_text">Войти</string>
+    <string name="common_signin_button_text_long">Войти в аккаунт Google</string>
+    <string name="about_dialog">"InstaSaveGram версия %s от Yglo Entertainment.
+
+ Пожалуйста, не используйте эту программу для сохранения фотографий без разрешения владельцев.
+Уважайте права пользователей Instagram.
+
+Если вам нравится InstaSaveGram, пожалуйста, оцените приложение.
+
+ Спасибо за покупку PRO-версии."</string>
+    <string name="action_about">О программе</string>
+    <string name="action_clear_cache">Очистить память изображений</string>
+    <string name="action_logout">Выйти из Instagram</string>
+    <string name="action_refresh">Обновить</string>
+    <string name="action_save">Сохранить</string>
+    <string name="action_save_path">Указать путь для сохранения</string>
+    <string name="action_search">Поиск</string>
+    <string name="action_select_all">Выбрать все</string>
+    <string name="action_select_none">Снять выделение</string>
+    <string name="backup_confirmation">Выполнить бэкап в \"%1$s\"?</string>
+    <string name="backup_type">Тип бэкапа</string>
+    <string name="button_backup">Сделать бэкап!</string>
+    <string name="button_zip">Заархивировать папку с бэкапом!</string>
+    <string name="cache_cleared">Память изображений очищена</string>
+    <string name="cancel_label">Отменить</string>
+    <string name="change">Сменить аккаунт</string>
+    <string name="confirm_label">Подтвердить</string>
+    <string name="create_folder_error">При создании папки произошла ошибка</string>
+    <string name="create_folder_error_already_exists">Такая папка уже существует.</string>
+    <string name="create_folder_error_no_write_access">Не удаётся создать запись в этой папке.</string>
+    <string name="create_folder_label">Создать папку</string>
+    <string name="create_folder_msg">Создать новую папку с названием \"%s\"?</string>
+    <string name="create_folder_success">Новая папка создана</string>
+    <string name="downloading">Загрузка медиа. Пожалуйста, подождите...</string>
+    <string name="fetching">Идёт извлечение данных. Пожалуйста, подождите...</string>
+    <string name="instagram_bad_connection">Невозможно установить связь с сервисами Instagram. Проверьте ваше соединение с Интернетом.</string>
+    <string name="instagram_login_error">Ошибка при входе в Instagram. Попробуйте позже.</string>
+    <string name="instagram_malformed_response">Ответ серверов некорректен. Попробуйте обновить.</string>
+    <string name="instagram_private_account">This account is private. Cannot access data.</string>
+    <string name="instagram_response_error">При соединении с сервером произошла ошибка: %1$d. Тип: %2$s.</string>
+    <string name="logged_out">Успешный выход из Instagram</string>
+    <string name="logging_in">Вход в систему. Пожалуйста, подождите...</string>
+    <string name="login_text">Пожалуйста, войдите в вашу учётную запись в Instagram</string>
+    <string name="long_touch_help">Длительное касание позволит увидеть фотографию в полном разрешении.</string>
+    <string name="no">Нет</string>
+    <string name="nothing_to_show">Подходящих результатов нет</string>
+    <string name="ok">ОК</string>
+    <string name="people">люди</string>
+    <string name="photo_text">"Приобретите PRO-версию,
+ чтобы сохранять видео"</string>
+    <string name="photos">Фото</string>
+    <string name="pref_filter">Контент-фильтр</string>
+    <string name="preferences">предпочтения</string>
+    <string name="rate_button">Оценить</string>
+    <string name="save_and_zip_complete">Все файлы успешно заархивированы и сохранены.</string>
+    <string name="save_complete">Все файлы успешно сохранены</string>
+    <string name="save_error">Ошибка при сохранении %1$d файлов: %2$s.</string>
+    <string name="save_selected">Сохранить %1$d файлы в \"%2$s\"?</string>
+    <string name="saved">Сохранённые %s файлы</string>
+    <string name="saving_to">Сохранение в \"%s\"</string>
+    <string name="select_one_image">Выберите хотя бы одно изображение</string>
+    <string name="selected_folder_label">Выбранная папка:</string>
+    <string name="send_choose">Отправить</string>
+    <string name="send_confirmation">Отправить архив в какое-нибудь надёжное место? (e-mail, dropbox, иное)?</string>
+    <string name="time_filter">Сортировать по дате загрузки</string>
+    <string name="time_filter_begin">Исходная дата</string>
+    <string name="time_filter_end">Конечная дата</string>
+    <string name="up_label">Вверх</string>
+    <string name="yes">Да</string>
+    <string name="zip_confirmation">Заархивировать все файлы в \"%1$s\"?</string>
+    <string name="zip_error">Ошибка при архивировании файлов. Проверьте, достаточно ли свободного места в выбранной директории.</string>
+    <string name="ziping">Zip-файл архива создаётся. Это может занять некоторое время.</string>
+    <string name="zipped">Заархивированные %d файлы.</string>
+    <string name="pro_version_only">Только версия Про</string>
+</resources>

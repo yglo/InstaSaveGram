@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_types_array">
+        <item>สื่อของฉัน</item>
+        <item>สื่อที่ชอบ</item>
+        <item>สื่อของฉันและสื่อที่ชอบ</item>
+    </string-array>
+    <string-array name="enable_disable_aray">
+        <item>ปิดการใช้งาน</item>
+        <item>เปิดใช้งาน</item>
+    </string-array>
+</resources>

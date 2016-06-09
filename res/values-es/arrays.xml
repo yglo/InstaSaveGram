@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_types_array">
+        <item>Mis archivos</item>
+        <item>Archivos gustados</item>
+        <item>Mis archivos y archivos gustados</item>
+    </string-array>
+    <string-array name="enable_disable_aray">
+        <item>Desactivar</item>
+        <item>Activar</item>
+    </string-array>
+    <string-array name="pref_filter_entries">
+        <item>Desactivar</item>
+        <item>Fotos solamente</item>
+        <item>Videos solamente</item>
+    </string-array>
+    <string-array name="pref_grid_size_entries">
+        <item>Diminuto</item>
+        <item>Pequeño</item>
+        <item>Normal</item>
+        <item>Grande</item>
+        <item>Enorme</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_types_array">
+        <item>Media Saya</item>
+        <item>Media Ditautkan</item>
+        <item>Media Saya dan Media Ditautkan</item>
+    </string-array>
+    <string-array name="enable_disable_aray">
+        <item>Nonaktifkan</item>
+        <item>Aktifkan</item>
+    </string-array>
+</resources>

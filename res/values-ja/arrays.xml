@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_types_array">
+        <item>マイメディア</item>
+        <item>リンクされたメディア</item>
+        <item>マイメディアとリンクされたメディア</item>
+    </string-array>
+    <string-array name="enable_disable_aray">
+        <item>無効</item>
+        <item>有効</item>
+    </string-array>
+</resources>

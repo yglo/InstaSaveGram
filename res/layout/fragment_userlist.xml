@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/topLevel" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/buttonSearch" android:layout_width="@dimen/button_width" android:layout_height="@dimen/button_height" android:text="@string/action_search" android:layout_centerInParent="true" style="@style/backupButtonStyle" />
+    <ListView android:id="@id/listView" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@android:color/transparent" android:dividerHeight="@dimen/grid_spacing" android:layout_above="@id/footer" android:layout_alignParentTop="true" />
+    <TextView android:textSize="@dimen/normal_text_size" android:textColor="#ff000000" android:gravity="center" android:id="@id/footer" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/activity_vertical_margin" android:layout_alignParentBottom="true" />
+</RelativeLayout>

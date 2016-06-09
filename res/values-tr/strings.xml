@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ana ekrana git</string>
+    <string name="abc_action_bar_up_description">Yukarı git</string>
+    <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+    <string name="abc_action_mode_done">Tamamlandı</string>
+    <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+    <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+    <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+    <string name="abc_searchview_description_query">Arama sorgusu</string>
+    <string name="abc_searchview_description_search">Ara</string>
+    <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+    <string name="abc_searchview_description_voice">Sesli arama</string>
+    <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="common_android_wear_notification_needs_update_text">%1$s, Android Wear uygulamasında güncelleme yapılmasını gerektiriyor.</string>
+    <string name="common_android_wear_update_text">%1$s, Android Wear uygulaması güncellenene kadar çalışmayacak.</string>
+    <string name="common_android_wear_update_title">"Android Wear'ı Güncelle"</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s şu anda kullanılamayan bir veya daha fazla Google Play hizmetini gerektiriyor. Lütfen yardım için geliştiriciyle iletişime geçin.</string>
+    <string name="common_google_play_services_enable_button">Google Play hizmetlerini etkinleştir</string>
+    <string name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmayacak.</string>
+    <string name="common_google_play_services_enable_title">Google Play hizmetlerini etkinleştir</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">İstekte bulunan: %1$s</string>
+    <string name="common_google_play_services_install_button">Google Play hizmetlerini edin</string>
+    <string name="common_google_play_services_install_text_phone">%1$s, şu anda telefonunuzda bulunmayan Google Play hizmetleri olmadan çalışmayacak.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s, şu anda tabletinizde bulunmayan Google Play hizmetleri olmadan çalışmayacak.</string>
+    <string name="common_google_play_services_install_title">Google Play hizmetlerini edinin</string>
+    <string name="common_google_play_services_invalid_account_text">Belirtilen hesap bu cihazda mevcut değil. Lütfen farklı bir hesap seçin.</string>
+    <string name="common_google_play_services_invalid_account_title">Geçersiz Hesap</string>
+    <string name="common_google_play_services_needs_enabling_title">"Bir uygulama, Google Play Hizmetleri'nin etkin olmasını gerektiriyor."</string>
+    <string name="common_google_play_services_network_error_text">Google Play hizmetlerine bağlanmak için bir veri bağlantısı gerekiyor.</string>
+    <string name="common_google_play_services_network_error_title">Ağ Hatası</string>
+    <string name="common_google_play_services_notification_needs_update_title">Bir uygulama, Google Play Hizmetleri için bir güncelleme gerektiriyor.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Hizmetleri hatası</string>
+    <string name="common_google_play_services_sign_in_failed_text">Belirtilen hesapta oturum açılırken hata oluştu. Lütfen farklı bir hesap seçin.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Oturum açılamadı</string>
+    <string name="common_google_play_services_unknown_issue">Google Play hizmetleriyle ilgili bilinmeyen sorun.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s, cihazınız tarafından desteklenmeyen Google Play hizmetlerine ihtiyaç duyuyor. Yardım için üreticiyle görüşün.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play hizmetleri</string>
+    <string name="common_google_play_services_update_button">Güncelle</string>
+    <string name="common_google_play_services_update_text">Google Play hizmetlerini güncellemezseniz %1$s çalışmayacak.</string>
+    <string name="common_google_play_services_update_title">Google Play hizmetlerini güncelle</string>
+    <string name="common_google_play_services_updating_text">%1$s, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmayacak.</string>
+    <string name="common_google_play_services_updating_title">Google Play hizmetleri güncelleniyor</string>
+    <string name="common_open_on_phone">Telefonda aç</string>
+    <string name="common_signin_button_text">Oturum aç</string>
+    <string name="common_signin_button_text_long">"Google'da oturum aç"</string>
+    <string name="about_dialog">"InstaSaveGram Versiyon %s. Yglo Entertainment tarafından geliştirilmiştir.
+
+Lütfen sahiplerinin izni olmadan fotoğraf kaydetmek için bu programı kullanmayınız.
+Instagram kullanıcılarının haklarına saygılı olunuz.
+
+Eger InstaSaveGram'yu begendiyseniz lutfen oylayiniz.
+
+ InstaSaveGram Sürümü satın aldığınız için teşekkür ederiz."</string>
+    <string name="action_about">Hakkında</string>
+    <string name="action_clear_cache">Fotoğraf önbelleğini temizle</string>
+    <string name="action_logout">"Instagram'dan çıkış yap"</string>
+    <string name="action_refresh">Yenile</string>
+    <string name="action_save">Kaydet</string>
+    <string name="action_save_path">Kayıt yeri ayarla</string>
+    <string name="action_search">Ara</string>
+    <string name="action_select_all">Tümünü Seç</string>
+    <string name="action_select_none">Hiçbirini seçme</string>
+    <string name="backup_confirmation">Yedekleme bu dizine gerçekleştirilsin mi \"%1$s\" ?</string>
+    <string name="backup_type">Yedekleme Türü</string>
+    <string name="button_backup">Yedekle!</string>
+    <string name="button_zip">Yedekleme dosyasını sıkıştır!</string>
+    <string name="cache_cleared">Fotoğraf önbelleği başarıyla temizlendi</string>
+    <string name="cancel_label">Iptal</string>
+    <string name="change">Değiştir</string>
+    <string name="confirm_label">Onayla</string>
+    <string name="create_folder_error">Klasör oluşturulamadı</string>
+    <string name="create_folder_error_already_exists">Klasör zaten mevcut</string>
+    <string name="create_folder_error_no_write_access">Bu klasöre kaydedilemiyor.</string>
+    <string name="create_folder_label">Klasör oluştur</string>
+    <string name="create_folder_msg">Yeni klasör \"%s\" adıyla oluşturulsun mu?</string>
+    <string name="create_folder_success">Yeni klasor oluşturuldu</string>
+    <string name="downloading">Indiriliyor. Lütfen bekleyin...</string>
+    <string name="fetching">Veri alınıyor. Lütfen bekleyiniz...</string>
+    <string name="instagram_bad_connection">Instagram sunucularına bağlanılamıyor. Internet bağlantınızı kontrol edin.</string>
+    <string name="instagram_login_error">"Instagram'a giriş sırasında bir hata oluştu. Lütfen az sonra tekrar deneyin."</string>
+    <string name="instagram_malformed_response">Sunucudan yanıt alınamadı. Yenilemeyi deneyin.</string>
+    <string name="instagram_private_account">This account is private. Cannot access data.</string>
+    <string name="instagram_response_error">Sunucu hata raporu: %1$d. Tür: %2$s.</string>
+    <string name="logged_out">"Instagram'dan çıkış başarıyla gerçekleştirildi."</string>
+    <string name="logging_in">Giriş yapılıyor. Lütfen bekleyiniz...</string>
+    <string name="login_text">Lütfen Instagram hesabınızla giriş yapınız.</string>
+    <string name="long_touch_help">Bir fotoğrafın üzerine uzun basarak tam boyutunda görebilirsiniz.</string>
+    <string name="no">Hayır</string>
+    <string name="nothing_to_show">Gösterecek bir şey yok.</string>
+    <string name="ok">Tamam</string>
+    <string name="people">Kişiler</string>
+    <string name="photo_text">"Video kaydetmek için
+ Pro versiyonu edinin."</string>
+    <string name="photos">Fotoğraflar</string>
+    <string name="pref_filter">İçerik Filtreleme</string>
+    <string name="preferences">Tercihler</string>
+    <string name="rate_button">Oyla</string>
+    <string name="save_and_zip_complete">Tüm dosyalar başarıyla kaydedildi ve sıkıştırılarak zip dosyası oluşturuldu.</string>
+    <string name="save_complete">Tüm dosyalar başarıyla kaydedildi</string>
+    <string name="save_error">%1$d Dosya kaydedilirken bir hata oluştu: %2$s.</string>
+    <string name="save_selected">%1$d adet dosya bu dizine kaydedilsin mi \"%2$s\"?</string>
+    <string name="saved">%s adet dosya kaydedildi</string>
+    <string name="saving_to">Kayıt Yeri: \"%s\"</string>
+    <string name="select_one_image">En az bir tane fotoğraf seçiniz</string>
+    <string name="selected_folder_label">Seçilen klasör:</string>
+    <string name="send_choose">Gönder</string>
+    <string name="send_confirmation">Zip dosyasını güvenli bir yere göndermek ister misiniz (mail, dropbox, vb.)?</string>
+    <string name="time_filter">Yükleme tarihine göre filtrele</string>
+    <string name="time_filter_begin">Başlangıç tarihi</string>
+    <string name="time_filter_end">Bitis Tarihi</string>
+    <string name="up_label">Yukarı</string>
+    <string name="yes">Evet</string>
+    <string name="zip_confirmation">"Bu dizindeki tüm dosyalar sıkıştırılsın mı \"%1$s\" '?"</string>
+    <string name="zip_error">Sıkıştırma hatası. Seçtiğiniz dizindeki boş alanı kontrol edin.</string>
+    <string name="ziping">Zip dosyası oluşturuluyor. Bu işlem biraz zaman alabilir.</string>
+    <string name="zipped">%d adet dosya sıkıştırıldı.</string>
+    <string name="pro_version_only">Pro Sürüm Sadece</string>
+</resources>

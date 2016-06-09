@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:title="@string/action_save_path" android:key="pref_directory">
+        <intent android:targetPackage="yglo.apps.instasavegram" android:action="yglo.apps.instasavegram.DIRECTORY_CHOOSER" />
+    </Preference>
+    <ListPreference android:entries="@array/pref_filter_entries" android:title="@string/pref_filter" android:key="pref_filter" android:defaultValue="disable" android:dialogTitle="@string/pref_filter" android:entryValues="@array/pref_filter_entry_values" />
+    <ListPreference android:entries="@array/pref_grid_size_entries" android:title="@string/pref_grid_size" android:key="pref_grid_size" android:defaultValue="3" android:dialogTitle="@string/pref_grid_size" android:entryValues="@array/pref_grid_size_entry_values" />
+    <ListPreference android:entries="@array/pref_folder_style_entries" android:title="@string/pref_folder_style" android:key="pref_folder_style" android:summary="@string/pref_folder_style_summary" android:defaultValue="1" android:dialogTitle="@string/pref_folder_style" android:entryValues="@array/pref_folder_style_entry_values" />
+</PreferenceScreen>

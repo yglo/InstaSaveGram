@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigasi ke beranda</string>
+    <string name="abc_action_bar_up_description">Navigasi naik</string>
+    <string name="abc_action_menu_overflow_description">Opsi lain</string>
+    <string name="abc_action_mode_done">Selesai</string>
+    <string name="abc_activity_chooser_view_see_all">Lihat semua</string>
+    <string name="abc_activitychooserview_choose_application">Pilih aplikasi</string>
+    <string name="abc_searchview_description_clear">Hapus kueri</string>
+    <string name="abc_searchview_description_query">Kueri penelusuran</string>
+    <string name="abc_searchview_description_search">Telusuri</string>
+    <string name="abc_searchview_description_submit">Kirim kueri</string>
+    <string name="abc_searchview_description_voice">Penelusuran suara</string>
+    <string name="abc_shareactionprovider_share_with">Bagikan dengan</string>
+    <string name="abc_shareactionprovider_share_with_application">Bagikan dengan %s</string>
+    <string name="common_android_wear_notification_needs_update_text">%1$s perlu pembaruan aplikasi Android Wear.</string>
+    <string name="common_android_wear_update_text">%1$s tidak akan berjalan jika aplikasi Android Wear tidak diperbarui.</string>
+    <string name="common_android_wear_update_title">Perbarui Android Wear</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s memerlukan satu atau beberapa layanan Google Play yang saat ini tidak tersedia. Hubungi pengembang untuk mendapatkan bantuan.</string>
+    <string name="common_google_play_services_enable_button">Aktifkan layanan Google Play</string>
+    <string name="common_google_play_services_enable_text">%1$s tidak akan berfungsi jika layanan Google Play tidak diaktifkan.</string>
+    <string name="common_google_play_services_enable_title">Aktifkan layanan Google Play</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Diminta oleh %1$s</string>
+    <string name="common_google_play_services_install_button">Dapatkan layanan Google Play</string>
+    <string name="common_google_play_services_install_text_phone">%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak ada di ponsel Anda.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak ada di tablet Anda.</string>
+    <string name="common_google_play_services_install_title">Dapatkan layanan Google Play</string>
+    <string name="common_google_play_services_invalid_account_text">Akun yang ditentukan tidak ada di perangkat ini. Pilih akun lain.</string>
+    <string name="common_google_play_services_invalid_account_title">Akun Tidak Valid</string>
+    <string name="common_google_play_services_needs_enabling_title">Aplikasi mewajibkan agar layanan Google Play diaktifkan.</string>
+    <string name="common_google_play_services_network_error_text">Sambungan data diperlukan untuk tersambung ke layanan Google Play.</string>
+    <string name="common_google_play_services_network_error_title">Kesalahan Jaringan</string>
+    <string name="common_google_play_services_notification_needs_update_title">Aplikasi mewajibkan pembaruan untuk layanan Google Play.</string>
+    <string name="common_google_play_services_notification_ticker">Kesalahan layanan Google Play</string>
+    <string name="common_google_play_services_sign_in_failed_text">Kesalahan saat masuk ke akun yang ditentukan. Pilih akun yang lain.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Gagal masuk</string>
+    <string name="common_google_play_services_unknown_issue">Masalah tidak diketahui pada layanan Google Play.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s memerlukan layanan Google Play, yang tidak didukung oleh perangkat Anda. Hubungi pabrikan untuk mendapat bantuan.</string>
+    <string name="common_google_play_services_unsupported_title">Layanan Google Play</string>
+    <string name="common_google_play_services_update_button">Perbarui</string>
+    <string name="common_google_play_services_update_text">%1$s tidak akan berjalan jika layanan Google Play tidak diperbarui.</string>
+    <string name="common_google_play_services_update_title">Perbarui layanan Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s tidak akan berjalan tanpa layanan Google Play, yang saat ini sedang diperbarui.</string>
+    <string name="common_google_play_services_updating_title">Layanan Google Play sedang diperbarui</string>
+    <string name="common_open_on_phone">Buka di ponsel</string>
+    <string name="common_signin_button_text">Masuk</string>
+    <string name="common_signin_button_text_long">Masuk dengan Google</string>
+    <string name="about_dialog">"InstaSaveGram versi Pro %s oleh Yglo Entertainment.
+
+Mohon jangan menggunakan program ini untuk menyimpan foto-foto tanpa izin dari setiap pemiliknya.
+Hormatilah hak-hak dari para pengguna Instagram.
+
+Jika Anda menyukai InstaSaveGram, silahkan berikan rating.
+
+ Terimakasih telah membeli Versi Pro."</string>
+    <string name="action_about">Tentang</string>
+    <string name="action_clear_cache">Hapus cache gambar</string>
+    <string name="action_logout">Keluar dari Instagram</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_save">Simpan</string>
+    <string name="action_save_path">Atur simpan path</string>
+    <string name="action_search">Pencarian</string>
+    <string name="action_select_all">Pilih Semua</string>
+    <string name="action_select_none">Batalkan Semua</string>
+    <string name="backup_confirmation">Lakukan backup pada\"%1$s\"?</string>
+    <string name="backup_type">Tipe Backup</string>
+    <string name="button_backup">Backup!</string>
+    <string name="button_zip">Zip folder backup!</string>
+    <string name="cache_cleared">Cache gambar terhapus</string>
+    <string name="cancel_label">Batalkan</string>
+    <string name="change">Ubah</string>
+    <string name="confirm_label">Konfirmasi</string>
+    <string name="create_folder_error">Tidak dapat membuat folder</string>
+    <string name="create_folder_error_already_exists">Folder sudah ada</string>
+    <string name="create_folder_error_no_write_access">Tidak dapat menulis ke folder ini</string>
+    <string name="create_folder_label">Buat folder</string>
+    <string name="create_folder_msg">Buat folder baru dengan nama \"%s\"?</string>
+    <string name="create_folder_success">Buat folder baru</string>
+    <string name="downloading">Sedang mendownload media. Silahkan menunggu...</string>
+    <string name="fetching">Mengambil data. Silahkan tunggu...</string>
+    <string name="instagram_bad_connection">Tidak dapat terhubung dengan server Instagram. Periksalah Internet Anda.</string>
+    <string name="instagram_login_error">Terjadi kesalahan login dengan Instagram. Cobalah sebentar lagi.</string>
+    <string name="instagram_malformed_response">Tanggapan server sedang tidak baik. Cobalah untuk di-refresh.</string>
+    <string name="instagram_private_account">This account is private. Cannot access data.</string>
+    <string name="instagram_response_error">Terjadi kesalahan pada tanggapan server: %1$d. Tipe: %2$s.</string>
+    <string name="logged_out">Berhasil keluar dari Instagram</string>
+    <string name="logging_in">Sedang login. Silahkan tunggu...</string>
+    <string name="login_text">Silahkan masuk dengan akun Instagram Anda</string>
+    <string name="long_touch_help">Sentuh lama foto untuk melihatnya dalam resolusi penuh</string>
+    <string name="no">Tidak</string>
+    <string name="nothing_to_show">Tidak ada yang ditampilkan</string>
+    <string name="ok">OKE</string>
+    <string name="people">Orang</string>
+    <string name="photo_text">"Dapatkan Versi Pro
+untuk menyimpan video"</string>
+    <string name="photos">Fotos</string>
+    <string name="pref_filter">Filter konten</string>
+    <string name="preferences">Preferensi</string>
+    <string name="rate_button">Rating</string>
+    <string name="save_and_zip_complete">Semua file berhasil tersimpan dan di-zip</string>
+    <string name="save_complete">Semua file berhasil tersimpan</string>
+    <string name="save_error">Terjadi kesalahan dalam menyimpan %1$d file: %2$s.</string>
+    <string name="save_selected">Menyimpan %1$d file ke\"%2$s\"?</string>
+    <string name="saved">%s file tersimpan</string>
+    <string name="saving_to">Menyimpan ke \"%s\"</string>
+    <string name="select_one_image">Pilih setidaknya satu</string>
+    <string name="selected_folder_label">Folder yang dipilih:</string>
+    <string name="send_choose">Kirim ke</string>
+    <string name="send_confirmation">Kirim zip ke tempat yang aman (surat, dropbox, dll)?</string>
+    <string name="time_filter">Menyaring berdasarkan tanggal upload</string>
+    <string name="time_filter_begin">Tanggal Mulai</string>
+    <string name="time_filter_end">Tanggal Akhir</string>
+    <string name="up_label">Ke atas</string>
+    <string name="yes">Ya</string>
+    <string name="zip_confirmation">Zip semua file di dalam\"%1$s\"?</string>
+    <string name="zip_error">Kesalahan Zip. Periksa ruang kosong di direktori yang dipilih.</string>
+    <string name="ziping">membuat file zip. Ini mungkin memakan waktu cukup lama.</string>
+    <string name="zipped">%d file di-zip.</string>
+    <string name="pro_version_only">Pro Versi Hanya</string>
+</resources>

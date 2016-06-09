@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_types_array">
+        <item>I miei Media</item>
+        <item>Media Piaciuti</item>
+        <item>I miei Media e Media piaciuti</item>
+    </string-array>
+    <string-array name="enable_disable_aray">
+        <item>Disattiva</item>
+        <item>Attiva</item>
+    </string-array>
+</resources>

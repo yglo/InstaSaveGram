@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/topLevel" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/grid_spacing">
+        <TextView android:textSize="@dimen/normal_text_size" android:textColor="@color/ig_blue" android:gravity="center" android:id="@id/textViewUsername" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" />
+        <TextView android:textSize="@dimen/normal_text_size" android:textColor="@color/ig_blue" android:gravity="center" android:id="@id/textViewFullname" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <yglo.apps.instasavegram.views.SquareImageView android:id="@id/imageView" android:background="@color/white1" android:layout_width="@dimen/item_size" android:layout_height="0.0dip" />
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/small_text_size" android:gravity="center" android:id="@id/textViewBio" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="" />
+    </LinearLayout>
+</LinearLayout>

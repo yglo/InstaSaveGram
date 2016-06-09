@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:support="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_action_save" android:id="@id/action_save" android:orderInCategory="1" android:title="@string/action_save" support:showAsAction="always" />
+    <item android:icon="@drawable/ic_action_refresh" android:id="@id/action_refresh" android:orderInCategory="2" android:title="@string/action_refresh" support:showAsAction="always" />
+    <item android:icon="@drawable/ic_action_select_all" android:id="@id/action_select_all" android:orderInCategory="3" android:title="@string/action_select_all" support:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_action_select_none" android:id="@id/action_select_none" android:orderInCategory="4" android:title="@string/action_select_none" support:showAsAction="ifRoom" />
+</menu>
