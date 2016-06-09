@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/topLevelRelative" android:background="@color/lowbar_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageButton android:id="@id/buttonFeed" android:src="@drawable/home" style="@style/lowbarButtonStyle" />
-    <ImageButton android:id="@id/buttonPopular" android:src="@drawable/mag_glass" style="@style/lowbarButtonStyle" />
-    <ImageButton android:id="@id/buttonOwn" android:src="@drawable/user" style="@style/lowbarButtonStyle" />
-    <ImageButton android:id="@id/buttonLiked" android:src="@drawable/like" style="@style/lowbarButtonStyle" />
-    <ImageButton android:id="@id/buttonPro" android:src="@drawable/plus" style="@style/lowbarButtonStyle" />
-</LinearLayout>
