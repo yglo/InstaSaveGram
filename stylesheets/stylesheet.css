@@ -559,18 +559,26 @@ aside#sidebar p.repo-owner a {
 }
 
 a.button {
+clear:both;
   width: 134px;
   height: 58px;
   padding-top: 22px;
   padding-left: 68px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 23px;
+  font-size: 28px;
   line-height: 1.2;
   color: #fff;
 }
 a.button small {
+clear:both;
   display: block;
   font-size: 11px;
+}
+a.button medium {
+clear:both;
+  display: block;
+  font-size: 16px;
+    line-height: 0.5 !important;
 }
 header a.button {
   position: absolute;
@@ -585,6 +593,10 @@ aside a.button {
   margin-bottom: 20px;
   font-size: 21px;
   background: transparent url(../images/download-button.png) 0 0 no-repeat;
+}
+aside a#button{
+  font-size: 22px !important;
+  line-height: 1.2 !important;
 }
 
 code, pre {
